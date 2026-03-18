@@ -1,12 +1,12 @@
 # 🌐 Full GEO Optimized llms.txt
 
-A **complete, ready-to-use `llms.txt` file** for **Generative Engine Optimization (GEO)** — designed to maximize your website’s visibility across AI platforms like ChatGPT, Gemini, Claude, and Perplexity.
+A **complete, ready-to-use `robots.txt` file** for **Generative Engine Optimization (GEO)** — designed to maximize your website’s visibility across AI platforms like ChatGPT, Gemini, Claude, and Perplexity.
 
 ---
 
 ## 🚀 What is this?
 
-This repository provides a **fully optimized `llms.txt` file** that allows all major AI crawlers and generative engines to access your website content.
+This repository provides a **fully optimized `robots.txt` file** that allows all major AI crawlers and generative engines to access your website content.
 
 👉 Perfect for:
 
@@ -46,13 +46,13 @@ Click below to download the optimized file:
 ## ⚙️ How to Use
 
 1. Download the file
-2. Rename it to: `llms.txt`
+2. Rename it to: `robots.txt`
 3. Upload it to your website root directory
 
 Example:
 
 ```
-https://yourdomain.com/llms.txt
+https://yourdomain.com/robots.txt
 ```
 
 ---
